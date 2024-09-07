@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CRMColorit.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CRMColorit_main_jar</output-path>
+    <root id="archive" name="CRMColorit.main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="CRMColorit.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xerial/sqlite-jdbc/3.39.3.0/94166806682e738a5275bd09052fa34b1328eedf/sqlite-jdbc-3.39.3.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
